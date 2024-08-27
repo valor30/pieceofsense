@@ -23,4 +23,4 @@ This project is a website developed using HTML, CSS, and JavaScript. It allows u
 - Google Sheets API
 
 ## Preview
-
+![preview](assets/images/preview.gif)
